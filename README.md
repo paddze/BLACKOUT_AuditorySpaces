@@ -18,7 +18,7 @@ Patrick Dangel, Joe Franz, Tilman Hegge, Felix Mann, Tim Rittig
 
 ![Hier sehen Sie das Logo](https://github.com/paddze/BLACKOUT_AuditorySpaces/blob/master/BLACKOUT_Logo.jpg "Logo")
 
-![Hier sehen Sie den Startbildschirm](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Artwork/Glade_Titelbild.jpg "Titelbild")
+![Hier sehen Sie den Startbildschirm](BLACKOUT_Screen_Schrift.jpg "Titelbild")
 
 **Programmierung:**
 
