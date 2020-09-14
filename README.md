@@ -4,6 +4,7 @@
 Patrick Dangel, Joe Franz, Tilman Hegge, Felix Mann, Tim Rittig
 
 **Aktuelle Version des Projektes:**
+![Link zum Drive-Ordner mit den aktuellen Versionen](https://drive.google.com/drive/folders/1VMocU3wB3z-aalVIfblXpI-GRI-o9RNh?usp=sharing)
 
 
 ## Dokumentation
