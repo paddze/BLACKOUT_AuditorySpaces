@@ -78,7 +78,8 @@ Screenshot 4:Blick in das Gangsystem
 - Mit **L** können alle Schalter auf einmal aktiviert werden, sodass direkt zum letzten Schalter gegangen werden kann. Bei dieser Funktion werden gleichzeitig jedoch auch die Sounds aller Schalter aktiviert, was sich negativ auf die Geräuschkulisse auswirkt.
 - Mit **M** kann in den Flash-Mode gewechselt werden. Wird diese Funktion aktiviert, wird die Helligkeit des Spiels deutlich erhöht und der Spieler kann sich sehr schnell fortbewegen.
 
-- **Trotz dieser Cheats wird empohlen und darum gebeten, das Spiel zunächst ohne Aktivierung dieser durchzuspielen, da das Spiel so für den Rezipienten angedacht war. Bei wiederholtem Spielen oder Testen bestimmter Funktionen sind diese jedoch sehr hilfreich und können gerne verwendet werden.**
+**Trotz dieser Cheats wird empohlen und darum gebeten, das Spiel zunächst ohne Aktivierung dieser durchzuspielen, da das Spiel so für den Rezipienten angedacht war. Bei wiederholtem Spielen oder Testen bestimmter Funktionen sind diese jedoch sehr hilfreich und können gerne verwendet werden.**
 
 - Falls der Weg durch das Labyrinth-artige Gangsystem nicht selbstständig gefunden werden kann, gibt es außerdem einen Lösungsweg, der zeigt, wo sich die Signalpunkte befinden und in welcher Reihenfolge diese aktiviert werden müssen:
+
 ![Hier sehen Sie einen Screenshot](https://github.com/paddze/BLACKOUT_AuditorySpaces/blob/master/L%C3%B6sungsweg.jpg?raw=true "Lösungsweg")
