@@ -44,7 +44,7 @@ Patrick Dangel, Joe Franz, Tilman Hegge, Felix Mann, Tim Rittig
 **Spielwelt:**
 - Sobald das Intro endet, befindet sich der Spieler im Spielbereich. Dieser ist eine Raumstation, die aus 3 begehbaren Räumen und einem großen Labyrinth-artigen Gangsystem besteht.
 - Zu Beginn steht der Spieler im Anfangsraum und kann nach erfolgreicher Kontaktaufnahme mit dem Captain Informationen zur aktuellen Lage empfangen. Da der Strom innerhalb der Raumstation ausgefallen ist und der Captain dadurch in einem anderen Raum eingesperrt wurde, muss der Spieler sich nach Anweisung des Captains einen Weg durch das Gangsystem bahnen, um ihn zu befreien. 
-- Da durch den Stromausfall kaum Licht in der Raumstation vorhanden ist, hat der Spieler nur einen kleinen Lichtkegel zur Verfügung und muss sich durch Konzentration auf den Sound des nächsten Signalpunkts einen Weg durch das Gangsystem bahnen. Der Sound des nächsten Signalpunktes wird je nach Entfernung lauter bzw. leiser, sodass sich der Spieler daran orientieren kann und diesen ausfindig machen kann, um ihn zu aktivieren.
+- Da durch den Stromausfall kaum Licht in der Raumstation vorhanden ist, hat der Spieler nur einen kleinen Lichtkegel zur Verfügung und muss sich durch Konzentration auf den Sound des nächsten Signalpunktes einen Weg durch das Gangsystem bahnen. Der Sound des nächsten Signalpunktes wird je nach Entfernung lauter bzw. leiser, sodass sich der Spieler daran orientieren kann und diesen ausfindig machen kann, um ihn zu aktivieren.
 
 **Steuerung**
 - Innerhalb der Spielwelt kann sich mit der **Maus** umgesehen und mit **W, A, S, D** oder den **Pfeiltasten** vorwärts/rückwärts bzw. seitwärts gegangen werden.
@@ -75,10 +75,10 @@ Screenshot 4:Blick in das Gangsystem
 **Lösung und Cheats:**
 - Um das Spiel beim Testen nicht jedes Mal auf's Neue durchspielen zu müssen, wurden einige Cheats eingebaut.
 - Mit **P** kann der erste Schalter im Anfangsraum aktiviert werden, ohne den kompletten Dialog anhören zu müssen.
-- Mit **L** können alle Schalter auf einmal aktiviert werden, sodass direkt zum letzten Schalter gegangen werden kann. Bei dieser Funktion werden gleichzeitig jedoch auchdie Sounds aller Schalter aktiviert, was sich negativ auf die Geräuschkulisse auswirkt.
+- Mit **L** können alle Schalter auf einmal aktiviert werden, sodass direkt zum letzten Schalter gegangen werden kann. Bei dieser Funktion werden gleichzeitig jedoch auch die Sounds aller Schalter aktiviert, was sich negativ auf die Geräuschkulisse auswirkt.
 - Mit **M** kann in den Flash-Mode gewechselt werden. Wird diese Funktion aktiviert, wird die Helligkeit des Spiels deutlich erhöht und der Spieler kann sich sehr schnell fortbewegen.
 
--**Trotz dieser Cheats wird empohlen und darum gebeten, das Spiel zunächst ohne Aktivierung dieser durchzuspielen, da das Spiel so für den Rezipienten angedacht war. Bei wiederholtem Spielen oder Testen bestimmter Funktionen sind diese jedoch sehr hilfreich und können gerne verwendet werden.**
+- **Trotz dieser Cheats wird empohlen und darum gebeten, das Spiel zunächst ohne Aktivierung dieser durchzuspielen, da das Spiel so für den Rezipienten angedacht war. Bei wiederholtem Spielen oder Testen bestimmter Funktionen sind diese jedoch sehr hilfreich und können gerne verwendet werden.**
 
 - Falls der Weg durch das Labyrinth-artige Gangsystem nicht selbstständig gefunden werden kann, gibt es außerdem einen Lösungsweg, der zeigt, wo sich die Signalpunkte befinden und in welcher Reihenfolge diese aktiviert werden müssen:
 ![Hier sehen Sie einen Screenshot](https://github.com/paddze/BLACKOUT_AuditorySpaces/blob/master/L%C3%B6sungsweg.jpg?raw=true "Lösungsweg")
