@@ -10,15 +10,15 @@ Patrick Dangel, Joe Franz, Tilman Hegge, Felix Mann, Tim Rittig
 ## Dokumentation
 
 **Projektidee:**
-- Unser VR-Projekt ***Blackout*** visualisiert eine interaktive 3D-Virtual-Reality-Umgebung in Form eines Spiels.
+- Unser VR-Projekt ***BLACKOUT*** visualisiert eine interaktive 3D-Virtual-Reality-Umgebung in Form eines Spiels.
 - Das Spiel basiert auf keiner Geschichte öder ähnlichem, sondern ist komplett von uns selbst konzeptioniert worden.
 - Das Spiel findet hauptsächlich in einer dunklen Weltraumstation statt.
-- Wir haben uns dafür entschieden, dem Projekt den Titel ***Blackout*** zu geben, um zu verdeutlichen, dass das Spiel einen düsteren Ton anschlägt. Des Weiteren ist *Blackout* englisch und bedeutet so viel wie *Stromausfall* oder *Verdunkelung*, was die Thematik des Spiels sehr gut trifft.
+- Wir haben uns dafür entschieden, dem Projekt den Titel ***BLACKOUT*** zu geben, um zu verdeutlichen, dass das Spiel einen düsteren Ton anschlägt. Des Weiteren ist *Blackout* englisch und bedeutet so viel wie *Stromausfall* oder *Verdunkelung*, was die Thematik des Spiels sehr gut trifft.
 - Dabei haben wir uns besonders auf Sounds und die Erzeugung der Atmosphäre und weniger auf die visuelle Darstellung fokussiert: Durch die schlichte, düstere Spielwelt, sollen die Sci-Fi-artigen Sounds eine größere Wirkung auf den Spieler haben. So soll innerhalb des Spiels durch Konzentrieren auf einzelne Sounds ein Weg durch ein Labyrinth gefunden werden.
 
 **Artwork:**
 - Das Logo und das Titelbild des Spiels haben wir mithilfe von **Adobe Photoshop** erstellt.
-- Durch das Labyrinth im Logo (Bild 1) soll eine erste Anspielung auf das Labyrinth-artige Leveldesign in **BLACKOUT** geschaffen werden.
+- Durch das Labyrinth im Logo (Bild 1) soll eine erste Anspielung auf das Labyrinth-artige Leveldesign in ***BLACKOUT*** geschaffen werden.
 - Durch das mysteriöse Design des Titelbilds (Bild 2) soll der Spieler direkt auf die eher düstere Atmosphäre und die dunkle Umgebung des Spiels eingestellt werden. Das Design wurde absichtlich schlicht gehalten, da auch innerhalb des Spiels mehr Wert auf das Auditive als auf das Visuelle gelegt wurde, da der Großteil des Spiels im Dunkeln stattfindet. Auch im Titelbild ist das Labyrinth-artige Logo verarbeitet.
 
 ![Hier sehen Sie das Logo](BLACKOUT_Logo.jpg "Logo")
