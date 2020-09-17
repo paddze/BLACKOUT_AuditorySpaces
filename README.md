@@ -54,19 +54,15 @@ Patrick Dangel, Joe Franz, Tilman Hegge, Felix Mann, Tim Rittig
 **Screenshots:**
 
 - Screenshot 1: Erstellung der Spielwelt
-
 ![Hier sehen Sie einen Screenshot](https://github.com/paddze/BLACKOUT_AuditorySpaces/blob/master/Gangsystem_Animation.jpg?raw=true "Unity Editor")
 
 - Screenshot 2: Das Labyrinth-artige Gangsystem von oben
-
 ![Hier sehen Sie einen Screenshot](https://github.com/paddze/BLACKOUT_AuditorySpaces/blob/master/Gangsystem.jpg?raw=true "Gangsystem von oben")
 
 - Screenshot 3: Anfangsraum des Spiels
-
 ![Hier sehen Sie einen Screenshot](https://github.com/paddze/BLACKOUT_AuditorySpaces/blob/master/Anfangsraum.jpg?raw=true "Anfangsraum")
 
 - Screenshot 4: Blick in das Gangsystem
-
 ![Hier sehen Sie einen Screenshot](https://github.com/paddze/BLACKOUT_AuditorySpaces/blob/master/Blick_in_das_Gangsystem.jpg?raw=true "Blick in das Gangsystem")
 
 **Steuerung**
