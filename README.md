@@ -6,7 +6,7 @@ Patrick Dangel, Joe Franz, Tilman Hegge, Felix Mann, Tim Rittig
 **Aktuelle Version des Projektes:**
 [Link zum Drive-Ordner mit den aktuellen Versionen](https://drive.google.com/drive/folders/1VMocU3wB3z-aalVIfblXpI-GRI-o9RNh?usp=sharing)
 
-&rarr; **Version 1.4** markiert die aktuellste und finale Version des Spiels.
+**&rarr;** **Version 1.4** markiert die aktuellste und finale Version des Spiels.
 
 
 ## Dokumentation
@@ -83,7 +83,7 @@ Screenshot 4:Blick in das Gangsystem
 - Mit **L** können alle Schalter auf einmal aktiviert werden, sodass direkt zum letzten Schalter gegangen werden kann. Bei dieser Funktion werden gleichzeitig jedoch auch die Sounds aller Schalter aktiviert, was sich negativ auf die Geräuschkulisse auswirkt.
 - Mit **M** kann in den Flash-Mode gewechselt werden. Wird diese Funktion aktiviert, wird die Helligkeit des Spiels deutlich erhöht und der Spieler kann sich sehr schnell fortbewegen.
 
-&rarr; **Trotz dieser Cheats wird empohlen und darum gebeten, das Spiel zunächst ohne Aktivierung dieser durchzuspielen, da das Spiel so für den Rezipienten angedacht war. Bei wiederholtem Spielen oder Testen bestimmter Funktionen sind diese jedoch sehr hilfreich und können gerne verwendet werden.**
+**&rarr;** **Trotz dieser Cheats wird empohlen und darum gebeten, das Spiel zunächst ohne Aktivierung dieser durchzuspielen, da das Spiel so für den Rezipienten angedacht war. Bei wiederholtem Spielen oder Testen bestimmter Funktionen sind diese jedoch sehr hilfreich und können gerne verwendet werden.**
 
 - Falls der Weg durch das Labyrinth-artige Gangsystem nicht selbstständig gefunden werden kann, gibt es außerdem einen Lösungsweg, der zeigt, wo sich die Signalpunkte befinden und in welcher Reihenfolge diese aktiviert werden müssen:
 
