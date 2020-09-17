@@ -6,7 +6,7 @@ Patrick Dangel, Joe Franz, Tilman Hegge, Felix Mann, Tim Rittig
 **Aktuelle Version des Projektes:**
 [Link zum Drive-Ordner mit den aktuellen Versionen](https://drive.google.com/drive/folders/1VMocU3wB3z-aalVIfblXpI-GRI-o9RNh?usp=sharing)
 
-**&rarr;** **Version 1.4** markiert die aktuellste und finale Version des Spiels.
+   **&rarr;** **Version 1.4** markiert die aktuellste und finale Version des Spiels.
 
 
 ## Dokumentation
@@ -23,9 +23,9 @@ Patrick Dangel, Joe Franz, Tilman Hegge, Felix Mann, Tim Rittig
 - Durch das Labyrinth im Logo (Bild 1) soll eine erste Anspielung auf das Labyrinth-artige Leveldesign in ***BLACKOUT*** geschaffen werden.
 - Durch das mysteriöse Design des Titelbilds (Bild 2) soll der Spieler direkt auf die eher düstere Atmosphäre und die dunkle Umgebung des Spiels eingestellt werden. Das Design wurde absichtlich schlicht gehalten, da auch innerhalb des Spiels mehr Wert auf das Auditive als auf das Visuelle gelegt wurde, da der Großteil des Spiels im Dunkeln stattfindet. Auch im Titelbild ist das Labyrinth-artige Logo verarbeitet.
 
-![Hier sehen Sie das Logo](BLACKOUT_Logo.jpg "Logo")
+  ![Hier sehen Sie das Logo](BLACKOUT_Logo.jpg "Logo")
 
-![Hier sehen Sie den Startbildschirm](BLACKOUT_Screen_Schrift.jpg "Titelbild")
+  ![Hier sehen Sie den Startbildschirm](BLACKOUT_Screen_Schrift.jpg "Titelbild")
 
 **Programmierung:**
 - Das Projekt wurde als Desktop-Anwendung für den **Computer** programmiert.
@@ -44,7 +44,7 @@ Patrick Dangel, Joe Franz, Tilman Hegge, Felix Mann, Tim Rittig
 - Nach dem Text Crawl, welcher durch auffällige grafische Schriftelement und laute Musik gekennzeichnet ist, geht das Intro in eine Sequenz über, die im Kontrast dazu steht. Bis auf den Sternenhimmel sind in dieser Sequenz des Intros keine grafischen Elemente zu sehen. Außerdem ist nun keine Musik mehr zu hören, sondern lediglich Sounds und Voice Overs. Dieser auffällige Cut wurde bewusst gewählt, um eine ernstere Atmosphäre zu schaffen und dem Spieler ein Gefühl der Einsamkeit und Ungewissheit zu vermitteln und ihn somit in das Spiel hineinzuziehen.
 - Der Spieler erfährt im Intro, dass etwas auf der Raumstation passiert ist. Da das Funksignal gestört ist, muss er zurück auf die Raumstation und nachsehen, was dort vorgefallen ist.
 
-![Hier sehen Sie das Intro](https://github.com/paddze/BLACKOUT_AuditorySpaces/blob/master/Blackout_Intro.jpg?raw=true "Intro im Star Wars Stil")
+  ![Hier sehen Sie das Intro](https://github.com/paddze/BLACKOUT_AuditorySpaces/blob/master/Blackout_Intro.jpg?raw=true "Intro im Star Wars Stil")
 
 **Spielwelt:**
 - Sobald das Intro endet, befindet sich der Spieler im Spielbereich. Dieser ist eine Raumstation, die aus 3 begehbaren Räumen und einem großen Labyrinth-artigen Gangsystem besteht.
@@ -83,8 +83,8 @@ Patrick Dangel, Joe Franz, Tilman Hegge, Felix Mann, Tim Rittig
 - Mit **L** können alle Schalter auf einmal aktiviert werden, sodass direkt zum letzten Schalter gegangen werden kann. Bei dieser Funktion werden gleichzeitig jedoch auch die Sounds aller Schalter aktiviert, was sich negativ auf die Geräuschkulisse auswirkt.
 - Mit **M** kann in den Flash-Mode gewechselt werden. Wird diese Funktion aktiviert, wird die Helligkeit des Spiels deutlich erhöht und der Spieler kann sich sehr schnell fortbewegen.
 
-**&rarr;** **Trotz dieser Cheats wird empohlen und darum gebeten, das Spiel zunächst ohne Aktivierung dieser durchzuspielen, da das Spiel so für den Rezipienten angedacht war. Bei wiederholtem Spielen oder Testen bestimmter Funktionen sind diese jedoch sehr hilfreich und können gerne verwendet werden.**
+   **&rarr;** **Trotz dieser Cheats wird empohlen und darum gebeten, das Spiel zunächst ohne Aktivierung dieser durchzuspielen, da das Spiel so für den Rezipienten angedacht war. Bei wiederholtem Spielen oder Testen bestimmter Funktionen sind diese jedoch sehr hilfreich und können gerne verwendet werden.**
 
 - Falls der Weg durch das Labyrinth-artige Gangsystem nicht selbstständig gefunden werden kann, gibt es außerdem einen Lösungsweg, der zeigt, wo sich die Signalpunkte befinden und in welcher Reihenfolge diese aktiviert werden müssen:
 
-![Hier sehen Sie einen Screenshot](https://github.com/paddze/BLACKOUT_AuditorySpaces/blob/master/L%C3%B6sungsweg.jpg?raw=true "Lösungsweg")
+  ![Hier sehen Sie einen Screenshot](https://github.com/paddze/BLACKOUT_AuditorySpaces/blob/master/L%C3%B6sungsweg.jpg?raw=true "Lösungsweg")
