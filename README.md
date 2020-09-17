@@ -6,6 +6,8 @@ Patrick Dangel, Joe Franz, Tilman Hegge, Felix Mann, Tim Rittig
 **Aktuelle Version des Projektes:**
 [Link zum Drive-Ordner mit den aktuellen Versionen](https://drive.google.com/drive/folders/1VMocU3wB3z-aalVIfblXpI-GRI-o9RNh?usp=sharing)
 
+Die **Version 1.4** markiert die aktuellste und finale Version des Spiels.
+
 
 ## Dokumentation
 
@@ -38,8 +40,11 @@ Patrick Dangel, Joe Franz, Tilman Hegge, Felix Mann, Tim Rittig
 - Die Dialoge der Voice Overs haben wir selbst formuliert. Sie sollen einen engeren Bezug zu den Charakteren schaffen und dem Spieler Informationen zum Geschehen im Spiel liefern.
 
 **Intro:**
-- Das Intro besteht aus einem schwarzen Screen, bei dem lediglich Sounds und Voice Overs zu hören sind. Dadurch soll dem Spieler ein Gefühl der Einsamkeit und Ungewissheit vermittelt werden.
-- Der Spieler erfährt im Intro, dass etwas auf der Raumstation passiert ist. Da das Funksignal gestört ist muss er zurück auf die Raumstation und nachsehen, was dort vorgefallen ist.
+- Für das Intro wurde ein Video erstellt , welches einen Text Crawl im Stil von *Star Wars* zeigt. Damit soll das Spiel auf epische Weise beginnen und der Spieler soll durch die textuellen Informationen in die Thematik und die Geschehnisse des Spiels eingeführt werden.
+- Nach dem Text Crawl, welcher durch auffällige grafische Schriftelement und laute Musik gekennzeihnet ist, geht das Intro in eine Sequenz über, die im Kontrast dazu steht. Bis auf den Sternenhimmel sind in dieser Sequenz des Intros keine grafischen Elemente zu sehen. Außerdem ist nun keine Musik mehr zu hören, sondern lediglich Sounds und Voice Overs. Dieser auffällige Cut wurde bewusst gewählt, um eine ernstere Atmosphäre zu schaffen und dem Spieler ein Gefühl der Einsamkeit und Ungewissheit zu vermitteln und ihn somit in das Spiel hineinzuziehen.
+- Der Spieler erfährt im Intro, dass etwas auf der Raumstation passiert ist. Da das Funksignal gestört ist, muss er zurück auf die Raumstation und nachsehen, was dort vorgefallen ist.
+
+![Hier sehen Sie das Intro](https://github.com/paddze/BLACKOUT_AuditorySpaces/blob/master/Blackout_Intro.jpg?raw=true "Intro im Star Wars Stil")
 
 **Spielwelt:**
 - Sobald das Intro endet, befindet sich der Spieler im Spielbereich. Dieser ist eine Raumstation, die aus 3 begehbaren Räumen und einem großen Labyrinth-artigen Gangsystem besteht.
